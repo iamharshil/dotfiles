@@ -1,0 +1,53 @@
+- Auto Close Tag
+- Auto Rename Tag
+- Better Folding
+- Code Spell Checker
+- colorize
+- Copilot theme
+- Desert Theme
+- Docker
+- Error Gutters
+- Error Lens
+- ES7+ React/Redux/React-Native snippets
+- ESLint
+- Explorer Exclude
+- Feather Product Icons
+- Git Blame
+- Git History
+- Github Theme
+- gitignore
+- go
+- Horizon Theme
+- Hyper Term Theme
+- Intelli Refactor
+- IntelliCode
+- IntelliCode API Usage
+- JavaScript and TypeScript Nightly
+- Js CodeFormer: Javascript Refactoring & Code Authentication
+- Js Refactor :: JS CodeFormer
+- Material Icon Theme
+- MongoDB for VS Code
+- Norder
+- Om Theme (A Darker Dracula)
+- One Dark Darker
+- One Dark Pro
+- Open in GitHob, BitBucket, Gitlab, Visualstudio.com
+- Output Colorizer
+- Path Intellisense
+- Prettier
+- Pretty Typescript Errors
+- React Hooks Snippets
+- React Refactor
+- Red One Dark Pro
+- Rome
+- Simple React Snippets
+- SonarLint
+- Statusbar error
+- Tabnine AI Autocomplete
+- Tailwind CSS Intellisence
+- TODO Highlight
+- Todo Tree
+- Turbo Console Log
+- Typescript Importer
+- VSCode React Refactor
+- Wobbly Icon Theme

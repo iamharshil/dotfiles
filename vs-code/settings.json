@@ -1,0 +1,18 @@
+{
+    "editor.fontFamily": "'FiraCode Nerd Font', Menlo, 'Droid Sans Mono', 'monospace', monospace",
+    "editor.fontSize": 20,
+    "workbench.startupEditor": "none",
+    "editor.tabSize": 2,
+    "workbench.iconTheme": "material-icon-theme",
+    "[javascript][typescript][javascriptreact][typescriptreact]": {
+        "editor.defaultFormatter": "rome.rome"
+    },
+    "workbench.activityBar.visible": false,
+    // "window.titleBarStyle": "custom",
+    "workbench.layoutControl.enabled": false,
+    "editor.minimap.autohide": true,
+    "tabnine.experimentalAutoImports": true,
+    "workbench.productIconTheme": "feather-vscode",
+    "workbench.colorTheme": "Copilot Theme - Higher Contrast",
+    "editor.smoothScrolling": true
+}
